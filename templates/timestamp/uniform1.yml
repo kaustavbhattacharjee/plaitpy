@@ -20,11 +20,11 @@ fields:
     value: "#{job.title}"
     onlyif: this.age > $working_age
 
-  address:
-    template: address/usa.yaml
-  phone: # add a phone if the person is older than the minor age
-    template: device/phone.yaml
-    onlyif: this.age > ${minor_age}
+ # address:
+ #   template: address/usa.yaml
+ # phone: # add a phone if the person is older than the minor age
+ #   template: device/phone.yaml
+ #   onlyif: this.age > ${minor_age}
 
   # we model our height as a gaussian that varies based on
   # age and gender
