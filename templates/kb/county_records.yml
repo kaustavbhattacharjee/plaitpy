@@ -1,0 +1,44 @@
+# mobile clinic records
+define:
+  min_age: 10
+  minor_age: 13
+  working_age: 18
+
+fields:
+  age:
+    random: int(gauss(25, 5))
+    # minimum age is $min_age
+    finalize: max($min_age, value)
+
+  gender:
+    mixture:
+      - value: M
+      - value: F
+
+  race:
+    mixture:
+      - value: 'White'
+      - value: 'Black'
+      - value: 'American Indian or Alaska Native'
+      - value: 'Asian'
+      - value: 'Native Hawaiian or Other Pacific Islander'
+      - value: 'Other'
+
+  address:
+    template: address/nyc.yaml
+  zip:
+    lambda: this.address.zipcode
+
+  count:
+      random: abs(int(gauss(50, 25)))
+
+hide:
+  - address
+  
+
+ # address:
+ #   template: address/usa.yaml
+ # phone: # add a phone if the person is older than the minor age
+ #   template: device/phone.yaml
+ #   onlyif: this.age > ${minor_age}
+
