@@ -1,101 +1,101 @@
 age,gender,race,zip,count
-23,M,Native Hawaiian or Other Pacific Islander,10452,88
-22,M,Other,11232,47
-27,M,White,11433,37
-21,F,Native Hawaiian or Other Pacific Islander,11424,44
-37,F,American Indian or Alaska Native,11236,111
-21,F,Native Hawaiian or Other Pacific Islander,10467,48
-23,F,American Indian or Alaska Native,11233,20
-16,M,Native Hawaiian or Other Pacific Islander,11213,24
-20,F,White,11424,77
-22,M,Black,11245,57
-33,F,Native Hawaiian or Other Pacific Islander,10460,68
-23,M,Native Hawaiian or Other Pacific Islander,11405,19
-33,M,White,10005,65
-31,M,White,10453,85
-14,F,Black,10174,62
-22,M,Other,10072,63
-27,M,Asian,11255,65
-22,M,Asian,11254,25
-25,F,Black,10455,57
-23,M,Black,10197,74
-29,M,Native Hawaiian or Other Pacific Islander,11208,82
-14,M,Asian,11230,12
-28,M,Asian,11424,58
-22,F,Asian,11439,60
-24,M,Asian,10470,38
-23,F,White,10471,56
-26,F,Asian,11213,28
-22,M,Asian,11435,17
-25,M,Other,10033,23
-27,F,American Indian or Alaska Native,10453,22
-17,M,American Indian or Alaska Native,11243,77
-23,F,Other,11432,64
-25,M,Native Hawaiian or Other Pacific Islander,11210,49
-25,M,Asian,11234,91
-25,F,Other,11499,41
-28,M,Black,11425,58
-33,M,Asian,10468,33
-26,F,Black,11241,63
-20,F,Other,10304,67
-26,M,White,10472,83
-27,M,Native Hawaiian or Other Pacific Islander,10001,64
-23,F,American Indian or Alaska Native,11243,25
-27,M,Asian,10158,51
-23,F,Black,10451,10
-19,F,White,11432,37
-16,F,White,11435,24
-22,F,White,10109,57
-23,M,White,10087,77
-26,F,White,11431,32
-24,M,Other,10162,42
-24,F,American Indian or Alaska Native,10020,45
-21,M,Asian,11228,55
-23,M,Asian,10273,63
-27,M,Native Hawaiian or Other Pacific Islander,10465,51
-29,F,American Indian or Alaska Native,10455,83
-33,M,American Indian or Alaska Native,11451,76
-24,F,Asian,10470,61
-21,F,Asian,11430,115
-21,F,American Indian or Alaska Native,10037,68
-28,M,Black,11224,59
-23,M,American Indian or Alaska Native,11425,38
-26,F,Other,10261,29
-28,F,Other,11234,39
-22,F,American Indian or Alaska Native,10081,30
-22,F,American Indian or Alaska Native,11434,51
-25,M,Asian,10468,69
-28,F,Native Hawaiian or Other Pacific Islander,10269,3
-24,F,Asian,10025,45
-15,M,White,11240,95
-30,F,Other,11430,62
-27,M,Asian,11439,26
-17,F,White,10196,61
-23,M,Asian,11230,82
-23,F,Native Hawaiian or Other Pacific Islander,11405,79
-22,F,Asian,11436,70
-26,M,Asian,10081,26
-27,M,Black,10499,40
-23,M,American Indian or Alaska Native,10129,29
-32,M,Native Hawaiian or Other Pacific Islander,11430,41
-24,F,Asian,10459,31
-23,F,American Indian or Alaska Native,11433,29
-27,F,Native Hawaiian or Other Pacific Islander,11228,42
-18,F,Other,11434,21
-24,M,Black,11245,32
-21,M,Asian,10174,109
-23,M,White,10313,83
-22,M,Black,10466,64
-26,F,Asian,11205,75
-25,F,Native Hawaiian or Other Pacific Islander,11435,34
-23,M,Asian,11436,112
-20,M,White,10153,74
-24,F,American Indian or Alaska Native,11499,44
-22,F,Native Hawaiian or Other Pacific Islander,11216,3
-34,F,Other,10312,8
-30,M,Native Hawaiian or Other Pacific Islander,10464,28
-23,M,Black,11214,11
-30,F,Other,10197,38
-19,M,Asian,11223,70
-31,F,Black,10471,4
-21,F,White,10027,79
+35,M,Asian,10456,12
+23,F,Other,11222,78
+21,M,Asian,10075,74
+23,F,Other,10156,26
+29,M,Asian,10459,40
+29,F,Native Hawaiian or Other Pacific Islander,10016,11
+22,F,American Indian or Alaska Native,11234,89
+30,F,Black,11241,61
+21,M,Other,11432,51
+29,M,American Indian or Alaska Native,11217,15
+27,F,White,11256,56
+30,M,Native Hawaiian or Other Pacific Islander,11233,31
+30,M,Black,11224,20
+18,M,American Indian or Alaska Native,11216,82
+31,M,Other,11207,49
+12,F,Black,11434,8
+23,F,Black,11435,48
+16,F,Asian,10473,51
+22,M,Black,11230,74
+19,F,Other,11238,23
+30,M,Other,11238,44
+31,M,Asian,10472,54
+29,F,American Indian or Alaska Native,11233,43
+21,F,White,11234,50
+23,F,Asian,11431,42
+19,M,Native Hawaiian or Other Pacific Islander,11254,68
+30,F,Native Hawaiian or Other Pacific Islander,11425,2
+31,M,Black,11499,67
+25,M,Native Hawaiian or Other Pacific Islander,11236,43
+16,F,Black,11233,31
+18,F,Asian,11231,9
+24,M,American Indian or Alaska Native,11432,43
+31,M,White,11241,76
+22,M,Black,11222,4
+16,F,Other,11213,41
+32,F,Asian,11251,44
+23,M,American Indian or Alaska Native,11245,58
+33,M,Asian,11434,70
+26,M,White,11232,68
+19,F,Native Hawaiian or Other Pacific Islander,11499,40
+34,M,Black,11431,78
+21,M,Asian,11202,40
+26,M,White,11434,89
+23,F,Other,10120,67
+15,F,American Indian or Alaska Native,11225,53
+34,M,Asian,10469,77
+23,F,American Indian or Alaska Native,10046,49
+15,M,Native Hawaiian or Other Pacific Islander,11435,46
+28,F,Black,11222,15
+24,M,American Indian or Alaska Native,11436,58
+27,M,Other,10460,63
+35,F,American Indian or Alaska Native,10037,72
+24,F,White,11202,68
+16,F,Asian,10308,40
+18,M,American Indian or Alaska Native,10055,55
+26,M,Native Hawaiian or Other Pacific Islander,10463,56
+25,M,American Indian or Alaska Native,10006,48
+19,F,American Indian or Alaska Native,10464,18
+11,F,Other,11431,58
+18,F,Other,10024,53
+36,F,Native Hawaiian or Other Pacific Islander,11247,91
+20,F,Other,10459,58
+16,F,Other,11221,49
+21,F,Black,10119,98
+24,M,American Indian or Alaska Native,11256,92
+25,M,Black,10196,54
+31,F,Asian,11207,36
+15,F,Native Hawaiian or Other Pacific Islander,10303,45
+22,F,Native Hawaiian or Other Pacific Islander,11432,50
+23,M,Native Hawaiian or Other Pacific Islander,11239,44
+15,M,White,11206,45
+26,F,Asian,11435,41
+32,M,White,11431,54
+28,M,Native Hawaiian or Other Pacific Islander,11213,11
+22,F,White,11499,65
+27,F,Black,10461,97
+31,F,Native Hawaiian or Other Pacific Islander,10452,89
+25,F,Other,10115,40
+18,F,Other,10301,30
+31,M,White,11217,68
+15,M,Other,10150,72
+22,M,White,11405,21
+27,F,Other,11432,29
+24,F,White,10466,70
+26,M,Other,11439,59
+20,M,Native Hawaiian or Other Pacific Islander,10473,12
+20,M,American Indian or Alaska Native,11237,71
+21,F,American Indian or Alaska Native,11405,50
+19,M,Asian,10087,59
+26,M,Black,11222,51
+27,M,Native Hawaiian or Other Pacific Islander,11214,24
+28,M,Other,11430,26
+25,M,White,11432,7
+22,F,American Indian or Alaska Native,10268,73
+23,M,Black,11211,58
+25,F,Asian,11430,63
+18,M,Black,10161,45
+20,M,Other,10454,18
+18,M,Other,10475,71
+18,M,Black,11209,41
